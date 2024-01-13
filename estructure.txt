@@ -4,6 +4,7 @@
             client.py
             user.py
         /routers
+            __init__.py
             auth.py
             clients.py
     /config
