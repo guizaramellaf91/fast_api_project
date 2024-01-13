@@ -1,0 +1,14 @@
+/app
+    /api
+        /models
+            client.py
+            user.py
+        /routers
+            auth.py
+            clients.py
+    /config
+    /tests
+    main.py
+estructure.txt
+README.md
+requirements.txt

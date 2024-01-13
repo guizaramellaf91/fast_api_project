@@ -1,0 +1,5 @@
+app/__pycache__/main.cpython-38.pyc
+app/api/models/__pycache__/client.cpython-38.pyc
+app/api/models/__pycache__/user.cpython-38.pyc
+app/api/routers/__pycache__/auth.cpython-38.pyc
+app/api/routers/__pycache__/clients.cpython-38.pyc
