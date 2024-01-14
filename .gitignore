@@ -5,3 +5,9 @@ app/api/routers/__pycache__/auth.cpython-38.pyc
 app/api/routers/__pycache__/clients.cpython-38.pyc
 app/api/routers/__pycache__/__init__.cpython-38.pyc
 app/api/routers/__pycache__/init.cpython-38.pyc
+app/utils/__pycache__/jwt_utils.cpython-38.pyc
+app/api/dependencies/__pycache__/auth.cpython-38.pyc
+app/api/dependencies/__pycache__/authorizer.cpython-38.pyc
+app/api/routers/auth/__pycache__/auth.cpython-38.pyc
+app/api/routers/clients/__pycache__/clients.cpython-38.pyc
+app/api/routers/clients/__pycache__/interface.cpython-38.pyc

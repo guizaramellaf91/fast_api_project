@@ -1,15 +1,23 @@
 /app
     /api
+        /dependencies
+            authorizer.py
         /models
             client.py
             user.py
         /routers
             __init__.py
-            auth.py
-            clients.py
+            /auth
+                auth.py
+            /clients
+                clients.py
+                interface.py
     /config
     /tests
     main.py
+.env
+.gitignore
 estructure.txt
+Makefile
 README.md
 requirements.txt
